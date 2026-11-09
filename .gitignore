@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.npm-cache/
+*.local
+.idea/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
